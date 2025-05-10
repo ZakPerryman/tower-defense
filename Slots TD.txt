@@ -1,0 +1,8 @@
+Slots TD
+
+Slot machines accumulate lines from kills - different groupings of enemies have different rewards
+
+Towers belong to different suites, providing auto chess like boosts when those conditions are met
+
+Limited number of active towers on the board, focus on building tall over wide
+
